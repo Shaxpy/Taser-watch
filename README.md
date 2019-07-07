@@ -11,7 +11,7 @@ electrocution.
  The Complete Videos and App screenshot
 https://drive.google.com/open?id=1T14mqUClppmfeMcAvtp_0rgBP3IkbbbU
  
-This watch has been linked with the APP, and shows the status of the taser, whether it is activated or not!
+This watch has been linked with the Ardinode App, and shows the status of the taser, whether it is activated or not!
 
 Also the Location , Latitude, and longitude can be seen of the taser on the app
 
