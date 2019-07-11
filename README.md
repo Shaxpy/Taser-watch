@@ -21,8 +21,7 @@ The SmartPhone and Watch interact through Bluetooth only!
 
 Early Prototype
  
- 
-![WhatsApp Image 2019-07-11 at 9 17 05 PM](https://user-images.githubusercontent.com/39722327/61065708-db33ec80-a421-11e9-90c5-713f10406884.jpeg)
+![WhatsApp Image 2019-07-11 at 9 29 12 PM](https://user-images.githubusercontent.com/39722327/61066474-3f0ae500-a423-11e9-85ad-7b37f78c53c8.jpeg)
 
 
 So, we made it and won a Hackathon for the same which led us to believe this idea seems feasible so we are working on decreasing the size of the watch and designing smaller circuits!
