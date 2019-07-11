@@ -8,7 +8,9 @@ The Idea
 be electrocuted for a second or two.
 • Proper Insulation and measures taken to prevent self-
 electrocution.
- The Complete Videos and App screenshot
+ 
+ 
+The Complete Videos and App screenshot
 https://drive.google.com/open?id=1T14mqUClppmfeMcAvtp_0rgBP3IkbbbU
  
 This watch has been linked with the Ardinode App, and shows the status of the taser, whether it is activated or not!
@@ -16,6 +18,10 @@ This watch has been linked with the Ardinode App, and shows the status of the ta
 Also the Location , Latitude, and longitude can be seen of the taser on the app
 
 The SmartPhone and Watch interact through Bluetooth only!
+
+Early Prototype
+ 
+ 
 
 
 So, we made it and won a Hackathon for the same which led us to believe this idea seems feasible so we are working on decreasing the size of the watch and designing smaller circuits!
