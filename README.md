@@ -4,8 +4,10 @@ This is my team's attempt to make women feel much safer in public places!
 The Idea
 
 • Seems like a normal digital watch from outside.
+
 • After activation, if a person touches the metal contacts, he shall
 be electrocuted for a second or two.
+
 • Proper Insulation and measures taken to prevent self-
 electrocution.
  
